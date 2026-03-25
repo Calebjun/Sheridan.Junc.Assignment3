@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Client and Reference Projects ###
+LibraryDataClient/
+CityDataServer-SpringBoot-W2026-main/
